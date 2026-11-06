@@ -1,0 +1,15 @@
+---
+format:
+    html: 
+        self-contained: true
+        toc: true
+        theme: solar
+    pdf: default
+about: 
+    template: broadside
+---
+
+# My Website
+# Wendy Leuenberger
+Here's regular text
+

@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Let’s add some text"
+  },
+  {
+    "objectID": "research.html#neonic-research",
+    "href": "research.html#neonic-research",
+    "title": "Research",
+    "section": "Neonic research",
+    "text": "Neonic research"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Website",
+    "section": "",
+    "text": "My Website\n\n\nWendy Leuenberger\nHere’s regular text"
+  }
+]

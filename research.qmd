@@ -1,0 +1,17 @@
+---
+format:
+    html: 
+        self-contained: true
+        toc: true
+        theme: solar
+    pdf: default
+about: 
+    template: broadside
+title: "Research"
+---
+
+Let's add some text
+
+# And a header
+
+## Neonic research
